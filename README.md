@@ -1,4 +1,4 @@
-This simple application is designed to help you manage grades for students and courses efficiently. Below is a brief overview of its functionalities:  
+This Java and MySQL application is designed to help you manage grades for students and courses efficiently. Below is a brief overview of its functionalities:  
 
   View Grades: You can view grades for individual students and courses. This feature provides a quick overview of the performance of each student in various courses.  
   Add Grades: Add grades for students in specific courses. Simply input the student's name, the course name, and the grade achieved. The application will update the records accordingly.  
